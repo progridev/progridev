@@ -11,7 +11,7 @@ Meu nome é Paulo Rogério Ribeiro, Sou PCD, por causa de uma amputação na per
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@tuballo#1841/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:paulo.phinfo@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/paulor2.tec)
-[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/tuiterdopaulo)
+[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/tuiterdupaulo)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tuballo/)
 [![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/tuballo)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5511995431303)
